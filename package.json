@@ -69,5 +69,14 @@
       "Firefox ESR",
       "not ie < 11"
     ]
-  }
+  },
+  "trustedDependencies": [
+    "core-js",
+    "core-js-pure",
+    "ejs",
+    "es5-ext",
+    "fsevents",
+    "husky",
+    "msw"
+  ]
 }
